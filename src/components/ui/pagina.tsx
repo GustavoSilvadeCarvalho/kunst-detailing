@@ -7,7 +7,7 @@ export interface PaginaProps {
 
 export default function Pagina(props: PaginaProps) {
     return (
-        <div>
+        <div className="flex flex-col items-center">
             <Cabecalho />
             <main className={`${props.className ?? ''}`}>{props.children}</main>
         </div>
