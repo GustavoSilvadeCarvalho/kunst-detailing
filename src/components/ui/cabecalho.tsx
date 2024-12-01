@@ -5,7 +5,7 @@ export default function Cabecalho() {
     return (
         <header className="flex flex-col items-center">
             <Image
-                className="py-2"
+                className="py-1"
                 src='/logo.png'
                 alt="Logo da Knust Detailing"
                 width={50}

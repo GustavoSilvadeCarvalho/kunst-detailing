@@ -1,17 +1,17 @@
-import Card from "./card";
+import CardBig from "./cardBig";
 
 export default function Services() {
     return (
-        <div className="flex justify-between w-[1200px]">
-            <Card 
+        <div className="flex flex-col lg:flex-row gap-8 justify-between items-center w-[100%]">
+            <CardBig
                 title="Technical wash"
                 imageUrl="/technical.svg"
             />
-            <Card 
+            <CardBig
                 title="Interior detailing"
                 imageUrl="/interior.svg"
             />
-            <Card 
+            <CardBig
                 title="Polishing"
                 imageUrl="/polishing.svg"
             />
