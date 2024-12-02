@@ -2,7 +2,7 @@ import Card from "@/components/products/card";
 
 export default function Products() {
     return (
-        <div className="flex justify-around">
+        <div className="flex flex-col lg:flex-row items-center gap-10 justify-around w-[100%]">
             <Card
                 product="P6.01 - ONE"
                 imageUrl="/p6.png"
