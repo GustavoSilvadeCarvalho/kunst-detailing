@@ -8,3 +8,11 @@ O **Detailing Kunst** é um website desenvolvido para uma empresa de detalhament
 - **TypeScript** (Linguagem estática)
 - **Tailwind CSS** (Framework CSS utilitário)
 - **Vercel** (Hospedagem)
+
+## 🌍 Deploy
+
+O projeto está hospedado no Vercel e pode ser acessado online em: https://detailing-kunst.vercel.app.
+
+## 🎨 Design
+
+O design do site foi pensado para transmitir a elegância e a sofisticação do serviço de detalhamento automotivo, utilizando cores escuras, imagens de alta qualidade e um layout minimalista.
