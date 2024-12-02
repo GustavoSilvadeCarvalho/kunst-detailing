@@ -7,7 +7,7 @@ export default function SessaoServices() {
             <h3 className="text-2xl">Services</h3>
             <div className="flex flex-col items-center w-[100%] gap-3">
                 <Services />
-                <div className="flex gap-2">
+                <div className="flex gap-2 relative group">
                     <a href="">More</a>
                     <Image
                         src='/arrow.svg'
@@ -15,6 +15,7 @@ export default function SessaoServices() {
                         width={10}
                         height={10}
                     />
+                    <div className="absolute bottom-0 left-0 w-0 h-[2px] bg-white transition-all duration-300 group-hover:w-full"></div>
                 </div>
             </div>
         </div>
