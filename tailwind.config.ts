@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        libre: ['Libre Caslon Display', 'serif']
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
