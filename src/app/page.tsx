@@ -1,5 +1,4 @@
 import SessaoAbout from "@/components/about/sessaoAbout";
-import FeedbackCard from "@/components/feedback/feedbackCard";
 import SessaoFeedback from "@/components/feedback/sessaoFeedback";
 import SessaoServices from "@/components/services/sessaoServices";
 import Pagina from "@/components/ui/pagina";
