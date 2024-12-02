@@ -1,5 +1,4 @@
 import Cabecalho from "./cabecalho"
-import Footer from "./footer"
 
 export interface PaginaProps {
     children: React.ReactNode
