@@ -11,7 +11,7 @@ O **Detailing Kunst** é um website desenvolvido para uma empresa de detalhament
 
 ## 🌍 Deploy
 
-O projeto está hospedado no Vercel e pode ser acessado online em: https://detailing-kunst.vercel.app.
+O projeto está hospedado no Vercel e pode ser acessado online em: https://kunst-detailing.vercel.app/
 
 ## 🎨 Design
 
