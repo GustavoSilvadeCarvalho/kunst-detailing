@@ -4,16 +4,16 @@ export default function Services() {
     return (
         <div className="flex flex-col lg:flex-row gap-8 justify-evenly items-center w-[100%]">
             <CardBig
-                title="Technical wash"
-                imageUrl="/technical.svg"
+                title="LAVAGEM DETALHADA"
+                imageUrl="/lavagem-detalhada.png"
             />
             <CardBig
-                title="Interior detailing"
-                imageUrl="/interior.svg"
+                title="DETALHAMENTO INTERNO"
+                imageUrl="/detalhamento-interno.png"
             />
             <CardBig
-                title="Polishing"
-                imageUrl="/polishing.svg"
+                title="POLIMENTO"
+                imageUrl="/polimento.png"
             />
         </div>
     )
