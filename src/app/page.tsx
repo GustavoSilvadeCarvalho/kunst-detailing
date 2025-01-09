@@ -3,6 +3,7 @@ import SessaoFeedback from "@/components/feedback/sessaoFeedback";
 import SessaoServices from "@/components/services/sessaoServices";
 import Pagina from "@/components/ui/pagina";
 import SessaoWainting from "@/components/wainting/sessaoWainting";
+import SessaoFooter from "@/components/footer/sessaoFooter";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <SessaoServices />
         <SessaoFeedback />
         <SessaoWainting />
+        <SessaoFooter />
       </div>
     </Pagina>
   );

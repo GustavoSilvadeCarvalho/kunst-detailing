@@ -8,8 +8,9 @@ export default function SessaoServices() {
             <div className="flex flex-col items-center w-[100%] gap-3">
                 <Services />
                 <div className="flex gap-2 relative group">
-                    <a href="">More</a>
+                    <a href="">Mais</a>
                     <Image
+                        className="cursor-pointer"
                         src='/arrow.svg'
                         alt="seta"
                         width={10}

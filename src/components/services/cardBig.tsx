@@ -17,7 +17,7 @@ export default function CardBig({ title, imageUrl }: CardBigProps) {
                     height={300}
                 />
                 <Image
-                    className="absolute bottom-1.5 right-3"
+                    className="absolute bottom-1.5 right-3 cursor-pointer"
                     src="arrow.svg"
                     alt="seta"
                     width={18}

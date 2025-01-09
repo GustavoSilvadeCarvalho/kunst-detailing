@@ -1,10 +1,10 @@
 export default function SessaoWainting() {
     return (
         <div className="flex flex-col items-center gap-10 text-center">
-            <h1 className="text-2xl">We are waiting for you</h1>
+            <h1 className="text-2xl">Estamos esperando você</h1>
             <div className="flex flex-col lg:flex-row gap-10 items-center">
                 <div className="flex flex-col px-12 items-center gap-10">
-                    <h1>Address:</h1>
+                    <h1>Endereço:</h1>
                     <div>
                         <p>Starry Night Street</p>
                     </div>
@@ -24,7 +24,7 @@ export default function SessaoWainting() {
                 <div className="lg:hidden w-52 h-px bg-slate-100"></div>
 
                 <div className="flex flex-col px-12 items-center gap-10">
-                    <h1>Phone Number:</h1>
+                    <h1>Telefone:</h1>
                     <div>
                         <p>+1 234 567 890</p>
                     </div>
